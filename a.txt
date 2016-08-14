@@ -12,3 +12,5 @@ I love paris and brussels
 
 I love athens and mykonos
 
+This is an example of stashing changes
+
