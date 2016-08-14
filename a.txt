@@ -2,6 +2,7 @@ This is the first change in the new branch
 
 This is the first  change in texty
 
+<<<<<<< HEAD
 This is going to be deleted
 
 We are in master branch
@@ -9,3 +10,7 @@ This is exclusive to texty
 This is exclusive to texty
 
 Another texty exclusive
+I love paris and brussels
+
+I love athens and mykonos
+
